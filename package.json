@@ -1,0 +1,9 @@
+{
+  "homepage": "http://dusty-dev83.github.io/",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  }
+}
